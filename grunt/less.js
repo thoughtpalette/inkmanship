@@ -6,7 +6,7 @@ module.exports = {
         },
         files: {
             "build/project.css": [
-                "source/components/css-reset/reset.css",
+                "source/styles/project/reset.css",
                 "source/styles/project/main.less"
             ]
         }
